@@ -1,0 +1,1 @@
+{"id":"b4c72499-2028-4bf9-a4f7-19cd19678713","space":1838,"runtime":"python3.7","name":"user","path":"5pq44m","project":"b0w9udqg","account":"144798365827","region":"sa-east-1","deps":["fastapi","deta","bcrypt","python-dotenv","jinja2","aiofiles","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":"","reload_deps":false}

@@ -1,0 +1,1 @@
+{"id":"34f5a70f-49d3-4d4b-b58f-3ed069957421","space":1838,"runtime":"python3.7","name":"metadocs","path":"v0pqn4","project":"b0w9udqg","account":"144798365827","region":"sa-east-1","deps":["fastapi","jinja2","aiofiles","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":"","reload_deps":false}

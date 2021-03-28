@@ -1,0 +1,7 @@
+fastapi
+deta
+bcrypt
+python-dotenv
+jinja2
+aiofiles
+python-multipart
